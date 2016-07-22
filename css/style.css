@@ -1,0 +1,188 @@
+*{
+	font-family: 'Open Sans', sans-serif;
+}
+
+#fondoheader{
+	background-color: #2E2E2E;
+}
+
+.gris{
+	background-color: #D8D8D8;
+}
+
+li{
+	margin:-3px;
+	font-size: 16px;
+	list-style:none;
+}
+
+a {
+	color:white;
+	text-decoration:none;
+}
+
+.caja{
+	margin-top: 100px;
+	margin-left: 10px;
+	margin-right: 9px;
+	display: inline-block;
+	position: relative;
+}
+
+#logo{
+	padding: 25px;
+}
+
+#titulo1{
+	margin: 10px;
+	margin-left:20px; 
+}
+
+#enlace1{
+	font-size: 10px;
+	margin-left: 10px;
+	color: #5882FA;
+}
+
+.border{
+	border: 1px solid grey;
+	background-color: white;
+	padding: 2px; 
+}
+
+.img{
+	width: 190px;
+	height: 190px;
+}
+
+#caja2{
+	margin-left:20px;
+	margin-right: 20px;
+}
+
+.caja3{
+	margin-left:10px;
+	margin-right: 10px;
+}
+
+#caja4{
+	margin-left:20px;
+	margin-right: 40px;
+}
+
+.subtitulos{
+	font-size: 12px;
+	color: #5882FA;
+	text-align: center;
+	font-weight: bold;
+	padding-bottom: 25px;
+}
+
+.sub1{
+	color: #2A0A29;
+	font-size: 12px;
+	text-align: left;
+	font-weight: bold;
+	margin-top: 50px
+}
+
+#subm{
+	color: #2A0A29;
+	font-size: 12px;
+	text-align: left;
+	font-weight: bold;
+	margin-top: 30px;
+}
+
+#by5{
+	margin-top: 5px;
+	margin-bottom: 12px;
+	width: 185px;
+}
+
+.sub2{
+	color: #5882FA;
+	font-size: 12px;
+	text-align: left;
+	margin-top: 5px;
+}
+
+.margicon{
+	margin-right:10px;
+}
+
+.iconc{
+	width: 13px;
+	height: auto;
+}
+
+#by6{
+	margin-top: 30px;
+	margin-bottom: 10px;
+	width: 185px;
+}
+
+#sub3{
+	font-size: 12px;
+	text-align: left;
+	margin-top: 5px;
+}
+
+#footer{
+	background-color: #424242;
+	margin-top: 5px;
+}
+
+#fp1{
+	color: white;
+	font-size: 12px;
+	text-align: left;
+	margin: 20px;
+}
+
+#read{
+	color: #BDBDBD;
+}
+
+#margf{
+	margin-left: 180px;
+}
+
+.caja2{
+	color:#848484;
+	margin-top: 8px;
+	margin-left: 10px;
+	margin-right: 9px;
+	display: inline-block;
+	position: relative;
+	font-size: 10px;
+	text-align: center;
+}
+
+#fp2{
+	color: #848484;
+	font-size: 9px;
+	text-align: center;
+	margin: 20px;
+}
+
+#margf2{
+	margin-left: 30px;
+}
+
+.img2{
+	width: 100px;
+	height: 100px;
+}
+
+.margn1{
+	margin-top: 40px;
+	margin-left: 17px;
+	margin-right: 2px;
+}
+
+.margn{
+	margin-top: -8px;
+	margin-left: 17px;
+	margin-right: 2px;
+}
